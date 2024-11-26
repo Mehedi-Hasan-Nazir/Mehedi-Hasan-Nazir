@@ -59,3 +59,5 @@ Skills: Structure Eng/ Construction supervision // Data Science/ Research
       </a>
     </td>
  </tr>
+
+ </table>
