@@ -1,11 +1,10 @@
-
 ![I am a Civil Engineer](https://github.com/Mehedi-Hasan-Nazir/Machine-Learning/blob/main/pngegg.png)
 
-# Hi there 👋, 
-##My name is Mehedi Hasan Nazir
-####I am a Civil Engineer
 
+### Hi there 👋, My name is Mehedi Hasan Nazir
+#### I am a Civil Engineer
 
+I AM AN AMBITIOUS ENGINEER 
 
 Skills: Structure Eng/ Construction supervision // Data Science/ Research
 
