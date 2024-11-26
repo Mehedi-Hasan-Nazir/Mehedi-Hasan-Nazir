@@ -1,7 +1,10 @@
-### Hi there 👋,
+
+![I am a Civil Engineer](https://github.com/Mehedi-Hasan-Nazir/Machine-Learning/blob/main/pngegg.png)
+
+# Hi there 👋, 
 ##My name is Mehedi Hasan Nazir
-### I am a Civil Engineer
-![I am a Civil Engineer](https://github.com/Mehedi-Hasan-Nazir/Mehedi-Hasan-Nazir/blob/main/pngegg.png)
+####I am a Civil Engineer
+
 
 
 Skills: Structure Eng/ Construction supervision // Data Science/ Research
@@ -9,8 +12,8 @@ Skills: Structure Eng/ Construction supervision // Data Science/ Research
 - 🔭 I’m currently working on as a Structural Engineer 
 - 🌱 I’m currently learning Machine learning 
 - 👯 I’m looking to collaborate on Research 
-- 💬 Ask me about Data Science 
-- 📫 How to reach me: Linkedin ,Facebook 
+- 💬 Ask me about Data science 
+- 📫 How to reach me: Linkdin ,Facebook 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mehedi-Hasan-Nazir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/engr-md-mehedi-hasan-nazir-8240931aa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehedi.hasan.nazir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mehedinazir//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/MHNazir17)  
